@@ -1,0 +1,1 @@
+package java.cn.tomiaocat;/** * @author ceshi * @Title: FirstMain * @Package cm.tomiaocat * @Description: my first main for public in github * @date 2020/9/821:44 */public class FistMain {}
